@@ -1,27 +1,23 @@
 <!-- PROFIL README - by ChatGPT 💫 -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Salam, Mən Emrah Əhmədzadə! 
+   Emrah Akhmedzade! 
 </h1>
 
 <p align="center">
-  <b>💻 Backend Developer | ⚙️ .NET & C# | 🚀 Daim öyrənən və inkişaf edən biri</b>
+  <b>💻 Backend Developer | ⚙️ .NET & C# | Java </b>
 </p>
 
 ---
 
-### 🧠 Haqqımda
 
-🎯 Proqramlaşdırmaya böyük marağım var və əsasən **C# / .NET** ekosistemində çalışıram.  
-🧩 Təmiz kod, dizayn prinsipləri və performans optimizasiyası mənim üçün çox önəmlidir.  
-💬 Məncə, ən güclü kod — sadə və aydın olandır.  
 
 ---
 
 ### 🛠️ Texnologiyalar və Bacarıqlar
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,html,css,js,git,github,visualstudio,postman,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,git,github,visualstudio,postman,postgresql&theme=dark" />
 </p>
 
 ---
@@ -54,8 +50,8 @@
 ### 🌐 Əlaqə və Sosial Linklər
 
 <p align="center">
-  <a href="mailto:emrah@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/emrah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:akhmedzadeamrah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/akhmedzade-emrah-826a362b5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/akhmedzade2202"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
@@ -69,5 +65,5 @@
 
 ---
 
-⭐ Əgər profilimi bəyəndinsə, reposuna “Star” qoy, bu mənim üçün motivasiyadır 😄
+
 
