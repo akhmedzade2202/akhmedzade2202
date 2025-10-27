@@ -35,11 +35,6 @@
 
 ---
 
-### ✨ Cool Animasiya 🎬
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akhmedzade2202/akhmedzade2202/main/coding.gif" width="400" alt="Coding Animation">
-</p>
 
 💡 İpucu:  
 `coding.gif` faylını repo-nun içinə əlavə et və maraqlı bir **developer animasiyası** seç:  
