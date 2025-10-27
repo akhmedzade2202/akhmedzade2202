@@ -36,10 +36,6 @@
 ---
 
 
-💡 İpucu:  
-`coding.gif` faylını repo-nun içinə əlavə et və maraqlı bir **developer animasiyası** seç:  
-➡️ [https://giphy.com/search/coding](https://giphy.com/search/coding)
-
 ---
 
 ### 🌐 Əlaqə və Sosial Linklər
